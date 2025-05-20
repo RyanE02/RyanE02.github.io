@@ -7,12 +7,12 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Ryan Eldridge's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Ryan Eldridge
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
@@ -32,29 +32,23 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
+  github: RyanE02    # https://github.com/RyanE02 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
     - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
     - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+  - category: 3D Printing
+    tools: 
+    - Ultimaker (Filament)
+    - Stratasys F350 (Filament)
+    - Bambu (Filament)
+    - FormLabs (Resin)
   - category: Prototyping
     tools:
     - SLA
@@ -62,8 +56,6 @@ skills:
     - FDM
     - SLS
     - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
     - Laser Cutting
     - Water Jet Cutting
     - Arduino / Raspberry Pi
