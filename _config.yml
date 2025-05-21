@@ -15,9 +15,9 @@ title: Ryan Eldridge's Portfolio # This is what shows up in the tab of the brows
 name: Ryan Eldridge
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome, I am a biomedical engineer passionate about merging technology with healthcare to create innovative solutions. 
+  This portfolio highlights my work in medical device development, biomechanics, imaging, and data analysis. Through hands-on experience, 
+  I've honed skills in programming, circuit design, and 3D modeling to tackle real-world health challenges.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
