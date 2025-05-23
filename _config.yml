@@ -13,7 +13,7 @@ title: Ryan Eldridge's Portfolio # This is what shows up in the tab of the brows
 
 # Hero Section
 name: Ryan Eldridge
-headline: headline message
+headline: B.S. in BME, currently pursuing M.S. in BME
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Welcome, I am a biomedical engineer passionate about merging technology with healthcare to create innovative solutions. 
   This portfolio highlights my work in medical device development, biomechanics, imaging, and data analysis. Through hands-on experience, 
@@ -45,17 +45,14 @@ skills:
   - category: 3D Printing
     tools: 
     - Ultimaker (Filament)
-    - Stratasys F350 (Filament)
+    - Stratasys F370 (Filament)
     - Bambu (Filament)
     - FormLabs (Resin)
   - category: Prototyping
     tools:
     - SLA
     - CNC
-    - FDM
     - SLS
-    - DMLS
-    - Laser Cutting
     - Water Jet Cutting
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
@@ -84,13 +81,13 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+colors:
+  text: "#E0E0E0"
+  border: "#444444"
+  link: "#7AA5F8"
+  highlight: "#3B60D9"
+  background: "#121212"
+  light_background: "#1E1E1E"
 
 # A few examples. 
 basic theme:
